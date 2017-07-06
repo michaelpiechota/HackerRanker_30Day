@@ -1,5 +1,7 @@
-/**
- * Created by Mike on 7/5/17.
- */
+/*
+Operators
+Challenge unlocks on 07/05/2017
+*/
+
 public class Day3 {
 }
